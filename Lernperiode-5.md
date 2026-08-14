@@ -28,9 +28,9 @@ Die Python Basics lernen bis nach den Herbstferien
 2. Mehr an der Kartenbildung machen und Testen ob es mit den Karatern geht etwa 2h
 3.  Rest der verbleinder Zeit +- 1h Code lernen für Spawnpoint ändern.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Einlesen
+- [ ] Kartenbau
+- [ ] Spawnpoint
 
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich mich zuerst wieder ins Roblox Projekt eingelesen, um zu wissen, auf welchem Stand wir gerade sind. Das hat etwa 30 Minuten gedauert. Danach habe ich mich rund 2 Stunden mit der Kartenbildung beschäftigt und getestet, ob es mit den Charakteren funktioniert. In der restlichen Zeit habe ich mich in den Code eingelesen, um zu lernen, wie ich den Spawnpoint ändern kann. Insgesamt konnte ich so einen guten Überblick über das Projekt gewinnen.
@@ -46,9 +46,9 @@ Spawnpoint Code fertig einbauen und testen, ob er beim Fight-Ende korrekt funkti
 Kartenbildung weiterführen und mit den Karatern nochmals gründlich testen (Bugs fixen, falls welche auftauchen) ca. 1.5h
 Rest der Zeit: nächstes Arbeitspaket vorbereiten,Code sauber kommentieren
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Einlesen
+- [ ] Spawnpoint beenden
+- [X] Bug fix, Kartenbildung
 
 (Heute habe ich... (50-100 Wörter))
 
