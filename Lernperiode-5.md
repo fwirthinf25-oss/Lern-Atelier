@@ -41,7 +41,10 @@ Heute habe ich mich zuerst wieder ins Roblox Projekt eingelesen, um zu wissen, a
 
 
 ### Planung 21.08.2026
-3 bis 5 klar messbare Arbeitspakete.
+Kurz ins Projekt reinlesen und schauen, was seit letztem Mal gemacht wurde ca. 15 min
+Spawnpoint Code fertig einbauen und testen, ob er beim Fight-Ende korrekt funktioniert ca. 1h
+Kartenbildung weiterführen und mit den Karatern nochmals gründlich testen (Bugs fixen, falls welche auftauchen) ca. 1.5h
+Rest der Zeit: nächstes Arbeitspaket vorbereiten,Code sauber kommentieren
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
