@@ -51,7 +51,7 @@ Hack the Box Kurs starten schauen um was es geht 30 min
 Git hub Lernperiode 5 aufschalten hat nicht funktioniert letztes mal 30 min +-
 Rest der Zeit Hack the Box
 
-- [x] Hack the box
+- [x] Hack the box Getting Started Kurs
 - [x] Github reparieren
 - [X] Weiter hack the box
 =======
@@ -60,10 +60,10 @@ Spawnpoint Code fertig einbauen und testen, ob er beim Fight-Ende korrekt funkti
 Kartenbildung weiterführen und mit den Karatern nochmals gründlich testen (Bugs fixen, falls welche auftauchen) ca. 1.5h
 Rest der Zeit: nächstes Arbeitspaket vorbereiten,Code sauber kommentieren
 
-- [ ] Einlesen
-- [ ] Spawnpoint beenden
+- [x] Einlesen
+- [x] Spawnpoint beenden
 - [X] Bug fix, Kartenbildung
->>>>>>> a819cf0006568fc67c35c29c82ce73b3af9b9e05
+
 
 (Heute habe ich... (50-100 Wörter))
 Heute habe ich mit dem Hack the Box Kurs begonnen und mir einen ersten Überblick verschafft, um zu verstehen, worum es dabei geht. Außerdem habe ich das Problem beim Hochladen der Lernperiode 5 auf GitHub behoben, das zuvor nicht funktioniert hat. Die restliche Zeit habe ich weiter mit Hack the Box verbracht und praktische Übungen durchgearbeitet.
