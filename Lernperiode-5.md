@@ -75,21 +75,21 @@ Hack the Box weiter machen, dort ansetzen wo ich letztes Mal aufgehört habe. 30
 
 
 - [ ] 2 neue Hack the Box Module/Challenges abschliessen
-- [ ] Zusammenfassung der letzten Lektion wiederholen (30 min)
+- [x] Zusammenfassung der letzten Lektion wiederholen (30 min)
 - [ ] Mind. 1 neues Konzept/Tool aus Hack the Box dokumentieren
 
 (Heute habe ich... (50-100 Wörter))
+Ich bin auf Python Essentials 1 umgestiegen und da angefangen mich durchzuarbeiten. Mit Hack the Box bis jetzt aufgehört es war recht schwer. 
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 
 ### Planung 4.09.2026
-3 bis 5 klar messbare Arbeitspakete.
+Ziel ist es, mit Python Essentials 1 weiterzukommen Sections 3 und 4 und die Hack the Box Challenge nochmals anzugehen, um dort weiterzukommen.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+
+- [ ] Python Essentials 1, Section 3 Boolean Values,Operators, Bedingungen durcharbeiten und Quiz bestehen
+- [ ] Python Essentials 1, Section 4 Schleifen, Listen durcharbeiten
+- [ ] Hack the Box Challenge nochmals angehen, mind. 1 Teilaufgabe lösen
 
 (Heute habe ich... (50-100 Wörter))
 
@@ -135,4 +135,4 @@ Hack the Box weiter machen, dort ansetzen wo ich letztes Mal aufgehört habe. 30
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-S
+
