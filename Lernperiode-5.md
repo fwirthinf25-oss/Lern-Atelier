@@ -33,9 +33,9 @@ Die Python Basics lernen bis nach den Herbstferien
 - [x] Kartenbau
 - [X] Spawnpoint code
 =======
-- [ ] Einlesen
-- [ ] Kartenbau
-- [ ] Spawnpoint
+- [x] Einlesen
+- [x] Kartenbau
+- [x] Spawnpoint
 >>>>>>> a819cf0006568fc67c35c29c82ce73b3af9b9e05
 
 
@@ -87,22 +87,22 @@ Ich bin auf Python Essentials 1 umgestiegen und da angefangen mich durchzuarbeit
 Ziel ist es, mit Python Essentials 1 weiterzukommen Sections 3 und 4 und die Hack the Box Challenge nochmals anzugehen, um dort weiterzukommen.
 
 
-- [ ] Python Essentials 1, Section 3 Boolean Values,Operators, Bedingungen durcharbeiten und Quiz bestehen
-- [ ] Python Essentials 1, Section 4 Schleifen, Listen durcharbeiten
-- [ ] Hack the Box Challenge nochmals angehen, mind. 1 Teilaufgabe lösen
+- [x] Python Essentials 1, Section 3 Boolean Values,Operators, Bedingungen durcharbeiten und Quiz bestehen
+- [x] Python Essentials 1, Section 4 Schleifen, Listen durcharbeiten
+- [x] Hack the Box Challenge nochmals angehen, mind. 1 Teilaufgabe lösen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich mich mit Python Essentials 1 von Cisco Networking Academy beschäftigt und die Sections 2 bis 4.2 durchgearbeitet (Datentypen, Operatoren, Bedingungen). Zusätzlich habe ich in VS Code einige der gelernten Konzepte als kleine Code-Snippets selbst ausprobiert, um zu testen, ob ich sie wirklich verstanden habe.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 
 ### Planung 11.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+
+- [ ] Python Essentials 1, Section 4 (Schleifen, Listen) vollständig durcharbeiten und Quiz bestehen
+- [ ] Python Essentials 1, Section 5 (Funktionen) beginnen und mind. 3 eigene Funktionen in VS Code schreiben
+- [ ] Ein kleines Übungsprogramm wie Taschenrechner oder
+Listen-Sortierer in VS Code eigenständig schreiben und testen
 
 (Heute habe ich... (50-100 Wörter))
 
