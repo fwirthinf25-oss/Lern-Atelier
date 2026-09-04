@@ -95,9 +95,8 @@ Ziel ist es, mit Python Essentials 1 weiterzukommen Sections 3 und 4 und die Hac
 Heute habe ich mich mit Python Essentials 1 von Cisco Networking Academy beschäftigt und die Sections 2 bis 4.2 durchgearbeitet (Datentypen, Operatoren, Bedingungen). Zusätzlich habe ich in VS Code einige der gelernten Konzepte als kleine Code-Snippets selbst ausprobiert, um zu testen, ob ich sie wirklich verstanden habe.
 
 
-
 ### Planung 11.09.2026
-
+Ziel ist es, Python Essentials 1 mit Section 4 abzuschliessen und Section 5 Funktionen zu beginnen, die Hack the Box Challenge weiterzubringen und ein eigenes Übungsprogramm in VS Code zu schreiben.
 
 - [ ] Python Essentials 1, Section 4 (Schleifen, Listen) vollständig durcharbeiten und Quiz bestehen
 - [ ] Python Essentials 1, Section 5 (Funktionen) beginnen und mind. 3 eigene Funktionen in VS Code schreiben
