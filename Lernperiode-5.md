@@ -98,22 +98,20 @@ Heute habe ich mich mit Python Essentials 1 von Cisco Networking Academy beschä
 ### Planung 11.09.2026
 Ziel ist es, Python Essentials 1 mit Section 4 abzuschliessen und Section 5 Funktionen zu beginnen, die Hack the Box Challenge weiterzubringen und ein eigenes Übungsprogramm in VS Code zu schreiben.
 
-- [ ] Python Essentials 1, Section 4 Schleifen, Listen vollständig durcharbeiten und Quiz bestehen
-- [ ] Python Essentials 1, Section 5 (Funktionen) beginnen und mind. 3 eigene Funktionen in VS Code schreiben
-- [ ] Ein kleines Übungsprogramm wie Taschenrechner oder Listen Sortierer in VS Code eigenständig schreiben und testen versuchen 
+- [x] Python Essentials 1, Section 4 Schleifen, Listen vollständig durcharbeiten und Quiz bestehen
+- [x] Python Essentials 1, Section 5 (Funktionen) beginnen und mind. 3 eigene Funktionen in VS Code schreiben
+- [x] Ein kleines Übungsprogramm wie Taschenrechner oder Listen Sortierer in VS Code eigenständig schreiben und testen versuchen 
 
 (Heute habe ich... (50-100 Wörter))
-
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Heute habe ich Python Essentials 1 weitergemacht und Section 4 zu Schleifen und Listen vollständig abgeschlossen, inklusive Quiz. Danach habe ich mit Section 5 zu Funktionen begonnen und direkt in VS Code drei eigene Funktionen geschrieben, um das Gelernte zu testen. Zusätzlich habe ich versucht, ein kleines Übungsprogramm wie einen Taschenrechner zu schreiben, um die neuen Konzepte in einem eigenen Projekt anzuwenden.
 
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Python Essentials 1, Section 5 Funktionen abschliessen und Quiz bestehen
+- [ ] Eigenes Übungsprogramm (Taschenrechner oder Listen Sortierer) fertigstellen und testen
+- [ ] Hack the Box Challenge weiterführen, mind. 1 neue Teilaufgabe lösen
 
 (Heute habe ich... (50-100 Wörter))
 
