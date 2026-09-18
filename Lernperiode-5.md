@@ -83,7 +83,7 @@ Ich bin auf Python Essentials 1 umgestiegen und da angefangen mich durchzuarbeit
 
 
 
-### Planung 4.09.2026
+### Planung 04.09.2026
 Ziel ist es, mit Python Essentials 1 weiterzukommen Sections 3 und 4 und die Hack the Box Challenge nochmals anzugehen, um dort weiterzukommen.
 
 
@@ -109,23 +109,23 @@ Heute habe ich Python Essentials 1 weitergemacht und Section 4 zu Schleifen und 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Python Essentials 1, Section 5 Funktionen abschliessen und Quiz bestehen
-- [ ] Eigenes Übungsprogramm (Taschenrechner oder Listen Sortierer) fertigstellen und testen
-- [ ] Hack the Box Challenge weiterführen, mind. 1 neue Teilaufgabe lösen
+- [x] Python Essentials 1, Section 5 Funktionen abschliessen und Quiz bestehen
+- [x] Eigenes Übungsprogramm (Taschenrechner oder Listen Sortierer) fertigstellen und testen
+- [x] Hack the Box Challenge weiterführen, mind. 1 neue Teilaufgabe lösen
 
-(Heute habe ich... (50-100 Wörter))
 
-## Lernperiode Reflexion
+
+
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-
+Heute habe ich Python Essentials 1, Section 5 zu Funktionen abgeschlossen und das Quiz mit über 80% bestanden. Danach habe ich mein Taschenrechner-Programm erweitert, unter anderem mit einer Fehlerbehandlung für ungültige Eingaben und einer Rundungsfunktion für die Ergebnisse, und alles in VS Code erfolgreich getestet. Zum Schluss habe ich mit dem nächsten Kapitel begonnen und die ersten zwei Unterkapitel durchgearbeitet, sodass ich für die kommende Lektion gut vorbereitet bin.
 
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Python Essentials 1, Section 5 (Funktionen) bis zum Ende der Lektion komplett abschliessen, inklusive Quiz mit mindestens 80% Score.
+- [ ] Das eigene Übungsprogramm (Taschenrechner) um mindestens 2 zusätzliche Funktionen erweitern, zum Beispiel Fehlerbehandlung bei ungültiger Eingabe oder Rundung von Ergebnissen, und in VS Code lauffähig testen.
+- [X] Mit dem nächsten Kapitel nach Section 5 starten und davon mindestens die ersten 2 Unterkapitel durcharbeiten, bevor die Lektion endet.
 
 (Heute habe ich... (50-100 Wörter))
 
