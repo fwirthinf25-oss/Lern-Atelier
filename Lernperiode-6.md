@@ -164,10 +164,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Cisco 3.3-3.5 durcharbeiten (60 min)
-- [ ] ÖV-App: Zeit + Ziel auf einer Zeile (30 min)
-- [ ] ÖV-App: Verspätung anzeigen (30 min)
-- [ ] ÖV-App: GitHub-Repo mit README (40 min)
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
+- [ ] ...Ihr Text...
 
 
 #### Tagesreflexion
@@ -191,9 +190,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Cisco 3.3-3.5 durcharbeiten (60 min)
+- [ ] ÖV-App: Zeit + Ziel auf einer Zeile (30 min)
+- [ ] ÖV-App: Verspätung anzeigen (30 min)
+- [ ] ÖV-App: GitHub-Repo mit README (40 min)
 
 
 #### Tagesreflexion
