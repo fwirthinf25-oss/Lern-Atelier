@@ -138,11 +138,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Cisco 3.1.9-3.1.14 fertig (60 min)
-- [ ] Cisco Test Section 3, min. 60 Punkte (45 min)
-- [ ] ÖV-App: Zeit + Ziel auf einer Zeile (30 min)
-- [ ] ÖV-App: Verspätung anzeigen (30 min)
-- [ ] ÖV-App: GitHub-Repo mit README (40 min)
+- [x] Cisco 3.1.9-3.1.11 durcharbeiten (45 min)
+- [x] Cisco 3.1.12-3.1.14 durcharbeiten (45 min)
+- [x] Cisco 3.2 durcharbeiten (45 min)
 
 
 #### Tagesreflexion
@@ -153,7 +151,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mich nicht sehr gut gefühlt, ich hatte Bauchschmerzen und Kopfweh. Darum habe ich weniger gemacht als ursprünglich geplant und nur im Python-Kurs bei 3.1 und 3.2 weitergearbeitet. Die ÖV-App habe ich auf nächstes Mal verschoben.
 
 ### Planung 13.11.2026
 <!--
@@ -166,9 +164,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Cisco 3.3-3.5 durcharbeiten (60 min)
+- [ ] ÖV-App: Zeit + Ziel auf einer Zeile (30 min)
+- [ ] ÖV-App: Verspätung anzeigen (30 min)
+- [ ] ÖV-App: GitHub-Repo mit README (40 min)
 
 
 #### Tagesreflexion

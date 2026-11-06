@@ -28,15 +28,9 @@ Die Python Basics lernen bis nach den Herbstferien
 2. Mehr an der Kartenbildung machen und Testen ob es mit den Karatern geht etwa 2h
 3.  Rest der verbleinder Zeit +- 1h Code lernen für Spawnpoint ändern.
 
-<<<<<<< HEAD
-- [x] Roblox Projekt arbeiten
-- [x] Kartenbau
-- [X] Spawnpoint code
-=======
 - [x] Einlesen
 - [x] Kartenbau
 - [x] Spawnpoint
->>>>>>> a819cf0006568fc67c35c29c82ce73b3af9b9e05
 
 
 ## Lernperiode Reflexion
@@ -46,7 +40,6 @@ Heute habe ich mich zuerst wieder ins Roblox Projekt eingelesen, um zu wissen, a
 
 
 ### Planung 21.08.2026
-<<<<<<< HEAD
 Hack the Box Kurs starten schauen um was es geht 30 min
 Git hub Lernperiode 5 aufschalten hat nicht funktioniert letztes mal 30 min +-
 Rest der Zeit Hack the Box
@@ -54,15 +47,6 @@ Rest der Zeit Hack the Box
 - [x] Hack the box Getting Started Kurs
 - [x] Github reparieren
 - [X] Weiter hack the box
-=======
-Kurz ins Projekt reinlesen und schauen, was seit letztem Mal gemacht wurde ca. 15 min
-Spawnpoint Code fertig einbauen und testen, ob er beim Fight-Ende korrekt funktioniert ca. 1h
-Kartenbildung weiterführen und mit den Karatern nochmals gründlich testen (Bugs fixen, falls welche auftauchen) ca. 1.5h
-Rest der Zeit: nächstes Arbeitspaket vorbereiten,Code sauber kommentieren
-
-- [x] Einlesen
-- [x] Spawnpoint beenden
-- [X] Bug fix, Kartenbildung
 
 
 (Heute habe ich... (50-100 Wörter))
