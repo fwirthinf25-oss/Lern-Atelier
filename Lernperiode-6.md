@@ -46,7 +46,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 -->
 
 Python Essentials-1 
-Eigenes Python-Projekt: ÖV-App mit Live-Abfahrten (transport.opendata.ch API)
+Eigenes Python-Projekt: Preis-Tracker der Preise von einem Shop ausliest
 
 ### Generelle Ziele
 <!--
@@ -112,9 +112,9 @@ Beispiele:
 - [ ] Cisco Academy Section 3, Lektionen 3.1.9-3.1.11 durcharbeiten in 45 min
 - [ ] Cisco Academy Section 3, Lektionen 3.1.12-3.1.14 durcharbeiten in 45 min
 - [ ] Cisco Academy Section 3, Test machen mit mindestens 60 Punkten in 45 min
-- [x] Eigenes Python-Projekt "ÖV-App" starten: Python und VS Code einrichten, Station mit `input()` abfragen
-- [x] ÖV-App: Abfahrten über die API von transport.opendata.ch mit `requests` holen und Ziel und Abfahrtszeit aus den JSON-Daten auslesen
-- [x] ÖV-App: mit einer `for`-Schleife alle Abfahrten ausgeben und die Zeit mit Slicing auf `HH:MM` kürzen
+- [x] ÖV-App anfangen und VS Code einrichten (30 min)
+- [x] ÖV-App: Abfahrten von einer API holen (45 min)
+- [x] ÖV-App: alle Abfahrten mit Zeit ausgeben (45 min)
 
 
 #### Tagesreflexion
@@ -125,7 +125,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Im Cisco-Kurs habe ich nur etwa die Hälfte vom Geplanten geschafft. Ich habe gemerkt, dass mir beim reinen Durchlesen wenig hängen bleibt und ich nicht wusste, wie ich das Gelernte anwenden soll. Darum habe ich ein eigenes Projekt angefangen: eine ÖV-Abfahrtstafel mit echten Live-Daten. In kleinen Schritten ging das viel besser, und ich habe gelernt, wie man eine API aufruft und verschachtelte Dictionaries und Listen ausliest. Bei Fehlern wie `KeyError` oder falscher Einrückung habe ich gelernt, die Fehlermeldung von unten nach oben zu lesen. Ab jetzt lerne ich mit dem Projekt und nutze den Kurs zum Nachschlagen.
+Heute habe ich im Cisco-Kurs nur etwa die Hälfte gemacht von dem was ich geplant hatte. Ich habe gemerkt, dass ich mir beim Durchlesen nicht so viel merken kann und nicht weiss wie ich es anwenden soll. Darum habe ich mit einem eigenen Projekt angefangen, einer App die ÖV-Abfahrten anzeigt. Das ging besser als gedacht, auch wenn ich viele Fehler hatte. Nächstes Mal mache ich halb Kurs und halb Projekt.
 
 ### Planung 06.11.2026
 <!--
@@ -194,7 +194,7 @@ Beispiele:
 - [x] ÖV-App: Grundprinzip abschliessen (30 min)
 - [x] Neues Projekt Preis-Tracker einrichten (30 min)
 - [x] Preis-Tracker: Preis im HTML finden (30 min)
-- [x] Preis-Tracker: Seite mit `requests` holen (40 min)
+- [x] Preis-Tracker: Seite mit requests holen (40 min)
 - [x] Preis-Tracker: Preis mit BeautifulSoup auslesen (30 min)
 
 
@@ -206,7 +206,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-Bei der ÖV-App habe ich das Grundprinzip umgesetzt: Daten von einer API holen, auslesen und mit einer Schleife ausgeben. Danach habe ich gemerkt, dass es solche Apps schon gibt und mir das Projekt nicht viel bringt. Darum habe ich auf einen Preis-Tracker mit BeautifulSoup gewechselt, der die Preise auf Webseiten ausliest. Was ich bei der ÖV-App gelernt habe, kann ich dort weiterverwenden. Statt einer Testseite nehme ich direkt einen echten Shop (alternate.ch) und tracke den Preis von RAM. Galaxus und Interdiscount blockieren Programme, darum braucht es einen User-Agent. Ich habe viele kleine Fehler gemacht, z. B. Variablennamen falsch geschrieben oder Text in Anführungszeichen statt der Variable ausgegeben. Dabei habe ich gelernt, genauer auf die Namen zu achten.
+Heute habe ich bei der ÖV-App das Grundprinzip fertig gemacht. Danach habe ich gemerkt, dass es so Apps schon gibt und es ein wenig unnötig ist. Darum mache ich jetzt einen Preis-Tracker, der den Preis von RAM auf alternate.ch ausliest. Am Anfang hatte ich oft kleine Fehler, zum Beispiel einen Variablennamen falsch geschrieben. Am Schluss hat es aber funktioniert und das Programm findet den Preis. Im Cisco-Kurs habe ich 3.3 bis 3.7 gemacht.
 
 
 
