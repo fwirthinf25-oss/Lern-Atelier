@@ -190,10 +190,12 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Cisco 3.3-3.5 durcharbeiten (60 min)
-- [ ] ÖV-App: Zeit + Ziel auf einer Zeile (30 min)
-- [ ] ÖV-App: Verspätung anzeigen (30 min)
-- [ ] ÖV-App: GitHub-Repo mit README (40 min)
+- [x] Cisco 3.3-3.7 durcharbeiten (60 min)
+- [x] ÖV-App: Grundprinzip abschliessen (30 min)
+- [x] Neues Projekt Preis-Tracker einrichten (30 min)
+- [x] Preis-Tracker: Preis im HTML finden (30 min)
+- [x] Preis-Tracker: Seite mit `requests` holen (40 min)
+- [x] Preis-Tracker: Preis mit BeautifulSoup auslesen (30 min)
 
 
 #### Tagesreflexion
@@ -204,7 +206,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Bei der ÖV-App habe ich das Grundprinzip umgesetzt: Daten von einer API holen, auslesen und mit einer Schleife ausgeben. Danach habe ich gemerkt, dass es solche Apps schon gibt und mir das Projekt nicht viel bringt. Darum habe ich auf einen Preis-Tracker mit BeautifulSoup gewechselt, der die Preise auf Webseiten ausliest. Was ich bei der ÖV-App gelernt habe, kann ich dort weiterverwenden. Statt einer Testseite nehme ich direkt einen echten Shop (alternate.ch) und tracke den Preis von RAM. Galaxus und Interdiscount blockieren Programme, darum braucht es einen User-Agent. Ich habe viele kleine Fehler gemacht, z. B. Variablennamen falsch geschrieben oder Text in Anführungszeichen statt der Variable ausgegeben. Dabei habe ich gelernt, genauer auf die Namen zu achten.
 
 
 
@@ -219,9 +221,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Cisco Test Section 3, min. 60 Punkte (45 min)
+- [ ] Cisco Section 4 beginnen, 4.1-4.3 (75 min)
+- [ ] Preis-Tracker: Preis als Zahl in Datei speichern (80 min)
 
 
 #### Tagesreflexion
