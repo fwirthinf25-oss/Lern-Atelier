@@ -222,8 +222,8 @@ Beispiele:
 -->
 
 - [ ] Cisco Test Section 3, min. 60 Punkte (45 min)
-- [ ] Cisco Section 4 beginnen, 4.1-4.3 (75 min)
-- [ ] Preis-Tracker: Preis als Zahl in Datei speichern (80 min)
+- [x] Cisco Section 4 beginnen (75 min)
+- [x] Preis-Tracker weiterarbeiten (80 min)
 
 
 #### Tagesreflexion
@@ -234,7 +234,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich im Cisco-Kurs mit Section 4 angefangen. Danach habe ich noch am Preis-Tracker weitergearbeitet. Den Test von Section 3 habe ich noch nicht gemacht, den mache ich nächstes Mal.
 
 ### Planung 04.12.2026
 <!--
@@ -247,9 +247,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Cisco Test Section 3, min. 60 Punkte (45 min)
+- [ ] Cisco Section 4 weitermachen (60 min)
+- [ ] Preis-Tracker: Preis als Zahl in Datei speichern (60 min)
+- [ ] Preis-Tracker: GitHub-Repo mit README (40 min)
 
 
 #### Tagesreflexion
